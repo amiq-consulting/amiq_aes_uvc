@@ -116,7 +116,7 @@ my_aes_core.aes_main(data_byte_array, 16, AES_ENCRYPTION, AES_CTR, output_data, 
 More information about the parameters of the public methods may be found in the `amiq_aes_core.svh` file.
 
 ## More information
-The UVC and the behaviour of its components may be explored in ["AES UVC implementation in UVM" - AMIQ Consulting Blog](placeholder_link).
+The UVC and the behaviour of its components may be explored in ["AES UVC implementation in UVM" - AMIQ Consulting Blog](https://www.consulting.amiq.com/2025/07/23/aes-uvc-a-uvm-implementation/).
 A more detailed documentation regarding the data types and functions inside the UVC may be found in the [detailed documentation](/aes_uvc_details.md)
 
 The UVC was developed according to the [FIPS 197 - Advanced Encryption Standard (AES)](https://csrc.nist.gov/pubs/fips/197/final) ,  alongside [SP 800-38A - Recommendation for Block Modes of Operation](https://csrc.nist.gov/pubs/sp/800/38/a/final).
